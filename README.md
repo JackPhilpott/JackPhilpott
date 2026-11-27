@@ -31,6 +31,10 @@ needs assessments in northern Nigeria.
 - [methane-s5p-explorer](https://github.com/JackPhilpott/methane-s5p-explorer): Sentinel-5P
   methane over western Turkmenistan with the Earth Engine Python API: a 2023–2025 anomaly map and
   monthly series, with tests, Docker and CI.
+- [south-sudan-flood-drought-monitor](https://github.com/JackPhilpott/south-sudan-flood-drought-monitor):
+  monthly flood, rainfall and vegetation indicators for South Sudan's 79 counties, 2019–2025, from
+  open satellite data with the Earth Engine Python API, validated against JRC and OCHA. An open-data
+  rebuild of the REACH monitoring system I ran in South Sudan.
 
 **Elsewhere**
 [Website](https://jackphilpott.github.io) · [LinkedIn](https://www.linkedin.com/in/jackphilpottgis/)
